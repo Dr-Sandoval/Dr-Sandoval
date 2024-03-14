@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![image](https://github.com/Dr-Sandoval/Dr-Sandoval/assets/126744310/3cac7367-e8e3-49f0-8ab3-ca1df3a0097b)
+
+
 <!--
 **Dr-Sandoval/Dr-Sandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
